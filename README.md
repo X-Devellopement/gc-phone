@@ -14,3 +14,6 @@ For the full script to work you must add "blackberry" to items in your db and al
 
 All Notifications and the whole script is translated to POLISH, I will not provide any other translation but feel free to commit.
 I can - on request - add an english one :)
+
+## IMAGE
+![image](https://user-images.githubusercontent.com/103067208/161828464-350f7d28-b805-4a25-bf09-2ff0fbac50f7.png)
